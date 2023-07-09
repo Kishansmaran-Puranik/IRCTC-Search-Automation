@@ -14,7 +14,6 @@ import org.openqa.selenium.io.FileHandler;
 
 
 
-
 public class FirstMiniProject {
     public static WebDriver driver;
 
